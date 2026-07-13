@@ -2439,7 +2439,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 97.79 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -2519,7 +2519,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 62.23 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -2807,7 +2807,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 97.79 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -2887,7 +2887,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 97.79 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3267,7 +3267,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 44.45 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -3555,7 +3555,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 26.67 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -3843,7 +3843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 44.45 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3923,7 +3923,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 115.57 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -4003,7 +4003,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 115.57 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4083,7 +4083,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 26.67 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4163,7 +4163,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 115.57 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -4243,7 +4243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 80.01 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -4323,7 +4323,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 62.23 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4507,7 +4507,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 62.23 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4587,7 +4587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 80.01 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4667,7 +4667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 44.45 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -4955,7 +4955,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 97.79 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -5451,7 +5451,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 80.01 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5739,7 +5739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 80.01 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6235,7 +6235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 115.57 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6315,7 +6315,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1"
 			(at 26.67 59.69 0)
 			(hide yes)
 			(show_name no)

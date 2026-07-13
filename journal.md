@@ -3,8 +3,13 @@ here are all my devlogs on this project
 
 
 # Devlog 3
-_?_
-...
+_2h_
+
+I placed all the switches and diodes on the right places - now it looks like this:
+
+![image of the pcb](img/image.png)
+
+Next I will be wiring the thing XD
 
 # Devlog 2
 _55 minutes_
