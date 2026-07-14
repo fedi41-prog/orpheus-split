@@ -2,8 +2,15 @@
 here are all my devlogs on this project
 
 
+# Devlog 4
+_~2h_
+I completly finished the left half of the pcb, and started to work on the right side. I realized, that I will need to make the right half from scratch, because I cant mirror some components the right way...
+
+here is a screenshot: 
+![finished left side](img/image2.png)
+
 # Devlog 3
-_2h_
+_~2h_
 
 I placed all the switches and diodes on the right places - now it looks like this:
 
